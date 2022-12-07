@@ -87,3 +87,12 @@ body{
 ::-webkit-scrollbar-thumb:hover{
     background: hsla(0, 0%, 100%, 0.6);
 }
+
+
+header {
+    position: fixed;
+    top: -90px;
+    left: 0;
+    width: 100%;
+    padding-block: 15px;
+}
